@@ -2,7 +2,6 @@ import { Link } from "react-router-dom";
 import "./searchItem.css";
 
 const SearchItem = ({item}) => {
-  console.log(item)
   return (
     <div className="searchItem">
       <img
